@@ -1,5 +1,5 @@
 
-<h1 align="center">🚀MULLER-MD</h1>
+<h1 align="center">🚀 pedii-the-confuser</h1>
 
 <p align="center">
   <img src="https://files.catbox.moe/v1en58.jpeg" width="300"/><br>
@@ -15,7 +15,7 @@
 
 **SESSION ID💫**
 
-[![Get Session](https://img.shields.io/badge/Get%20Session-MULLERMD-blueviolet?style=for-the-badge&logo=linktree)](https://muller-md-session-id.onrender.com/)
+[![Get Session](https://img.shields.io/badge/Get%20Session-pediitheconfuser-blueviolet?style=for-the-badge&logo=linktree)](https://pedii-the-confuser-session-id.onrender.com/)
 ---
 
 🧠 Features
@@ -110,18 +110,16 @@ node .
 
 ---
 
-🔗 Useful Links
-
-[![Join Our WhatsApp Channel](https://img.shields.io/badge/Join%20Channel-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)]([https://whatsapp.com/channel/0029VaFT2CSCRs1urRZGea1B](https://whatsapp.com/channel/0029VbBiO8PEKyZ9i8Skkc3C))
+🔗 c3C))
 ---
 
 👑 Credits
 
-> Made with ❤️ by *Muller*  
+> Made with ❤️ by *pedii the confusser*  
 > Contact: `2349166255902`
 
 ---
 
-*©️ 2025 – MULLER MD | All Rights Reserved.*
+*©️ 2025 – pedii the confuser| All Rights Reserved.*
 
 
